@@ -24,13 +24,13 @@ export const DISCIPLINES: Discipline[] = [
     id: "03",
     title: "HIIT",
     description: "High-Intensity Interval Training for maximum fat loss.",
-    image: "/images/hiit.png"
+    image: "images/hiit.png"
   },
   {
     id: "04",
     title: "YOGA",
     description: "Restore balance, flexibility, and mental peace.",
-    image: "/images/yoga.png"
+    image: "images/yoga.png"
   },
   {
     id: "05",

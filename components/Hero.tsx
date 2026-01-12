@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
           poster="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&w=2069&auto=format&fit=crop"
         >
           {/* Video featuring group cycling/fitness class to represent Yoga, Zumba, and Cycling */}
-          <source src="/videos/hero_video.mp4" type="video/mp4" />
+          <source src="videos/hero_video.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
 
